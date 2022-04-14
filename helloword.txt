@@ -1,1 +1,1 @@
-Hello my name is Omotayo. I love git 
+Hello my name is Omotayo. I love git and devops is awesome
